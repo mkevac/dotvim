@@ -1,9 +1,10 @@
 *bundles.txt*                    Bundles                      Version 0.1
 
 These are the bundles installed on your system, along with their
-versions and release dates.  Downloaded on Sat Nov 06 01:03:49 +0300 2010.
+versions and release dates.  Downloaded on Sat Nov 06 01:16:34 +0300 2010.
 
 A version number of 'n/a' means upstream hasn't tagged any releases.
+  - |Wombat|                       1.0                    2007-01-25
   - |nerdtree|                     4.1.0-4-ge1abd4d       2010-09-18
   - |nerdcommenter|                2.2.2-15-g930be32      2010-09-03
 
